@@ -6,8 +6,6 @@ I'm really interested in the flexibility code offers in general, and how it can 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan195)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ryan195)
-
 <!--
 **ryan195/ryan195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
