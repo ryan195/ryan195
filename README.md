@@ -1,6 +1,6 @@
 <h2>Hi I'm Ryan!</h2>
 
-I'm really interested in the flexibility code offers in general, and how it can be used to problem solve! My hobbies with programming include trying to make @nexaitch proud of me and experimenting with esoteric languages! I guess at this point I like algorithms too.
+I'm really interested in the flexibility code offers in general, and how it can be used to problem solve! My hobbies with programming include trying to make @nexaitch proud of me and experimenting with esoteric languages! I guess at this point I like algorithms too especially since I'd be taking a masters program on it.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan195&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
