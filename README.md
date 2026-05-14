@@ -1,10 +1,7 @@
 <h2>Hi I'm Ryan!</h2>
 
-I'm really interested in the flexibility code offers in general, and how it can be used to problem solve! My hobbies with programming include trying to make @nexaitch proud of me and experimenting with esoteric languages! I guess at this point I like algorithms too especially since I'm taking a masters program on it, teamed up with Swedish IOI members and have taken a photo with the Swedish BOI team.
+I'm really interested in the flexibility code offers in general, and how it can be used to problem solve! My hobbies with programming include trying to make @nexaitch proud of me and experimenting with esoteric languages! I guess at this point I like algorithms too.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan195&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan195)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ryan195/ryan195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
